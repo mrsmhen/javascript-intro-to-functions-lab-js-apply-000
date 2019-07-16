@@ -8,5 +8,5 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 function shout(string) {
-  
+  console.log()
 }
